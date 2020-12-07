@@ -1,25 +1,18 @@
-{
-	"jobs":[
-
-		{
-			"id": "1",
-			"jobtype": "Developer",
-			"jobtitle" : "Flutter Developer",
-			"companyName" : "Ishraak Solutions Limited",
-			"latitude" : "23.773649",
-			"longitude" : "90.411472"
-	
-		},
-
-		{
-			"id": "2",
-			"jobtype": "Developer",
-			"jobtitle" : "Flutter Developer",
-			"companyName" : "Tiger IT Limited",
-			"latitude" : "23.773649",
-			"longitude" : "90.411472"
-	
-		}
-
-	]
-}
+[
+  {
+    "id": "1",
+    "jobtype": "Developer",
+    "jobtitle": "Flutter Developer",
+    "companyName": "Ishraak Solutions Limited",
+    "latitude": "23.773649",
+    "longitude": "90.411472"
+  },
+  {
+    "id": "2",
+    "jobtype": "Developer",
+    "jobtitle": "Flutter Developer",
+    "companyName": "Tiger IT Limited",
+    "latitude": "23.773649",
+    "longitude": "90.411472"
+  }
+]
